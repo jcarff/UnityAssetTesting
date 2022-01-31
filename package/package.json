@@ -1,0 +1,16 @@
+
+{
+    "name" : "com.ihmc.audio-occlusion",
+    "version" : "1.0.0",
+    "displayName" : "Audio Occlusion",
+    "description" : "VR Audio Occlusion",
+    "unity"       : "2020.3",
+    "unityRelease" : "",
+    "dependencies" : {    },
+    "keywords"     : [    ],
+    "author"       : {
+        "name" : "IHMC",
+        "email" : "jcarff@ihmc.org",
+        "url"   : "https://git.ihmc.us/vr/workbench"
+    }
+}
